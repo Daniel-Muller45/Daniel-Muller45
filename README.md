@@ -1,6 +1,7 @@
 # Hi, I'm Daniel 👋  
 
-🎓 Senior in Chemical Engineering, transitioning into Software Engineering  
+🎓 Pursing Master in Computer Science at University of Illinois Urbana-Champaign
+🎓 Studied Chemical Engineering and Computer Science @ Virginia Tech ('25)
 💻 Currently: Software Engineer
 🚀 Interests: AI, finance tech, and developer tools  
 
