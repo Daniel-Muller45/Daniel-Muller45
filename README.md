@@ -18,7 +18,7 @@
 
 ### 📌 Projects
 - [joinuptodate.com](https://joinuptodate.com) → AI-powered investing newsletter  
-- **Contractor Voice AI** → handles missed calls, auto-texts, and job logging  
+- **Ora AI** → AI Nutrition Tracking
 - **Fantasy Football Manager** → Spring Boot backend + React frontend  
 
 ---
