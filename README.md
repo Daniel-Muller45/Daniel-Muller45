@@ -1,17 +1,21 @@
 # Hi, I'm Daniel 👋  
 
-🎓 Pursing Master in Computer Science at University of Illinois Urbana-Champaign
+🎓 Pursing Master in Computer Science @ University of Illinois Urbana-Champaign
+
 🎓 Studied Chemical Engineering and Computer Science @ Virginia Tech ('25)
-💻 Currently: Software Engineer
+
+💻 Currently: Software Engineer @ SAIC
+
 🚀 Interests: AI, finance tech, and developer tools  
+
 
 ---
 
 ### 🔧 Tech Stack
 - **Languages**: Java, Python, JavaScript/TypeScript, Swift  
-- **Frameworks**: Spring Boot, FastAPI, Next.js, React  
-- **Databases**: PostgreSQL, MongoDB, Supabase  
-- **Tools**: Docker, Git, Redis  
+- **Frameworks**: Spring Boot, FastAPI, Next.js, React, LangChain, LangGraph
+- **Databases**: PostgreSQL, MongoDB, Supabase, Redis
+- **Tools**: Docker, Git
 
 ---
 
