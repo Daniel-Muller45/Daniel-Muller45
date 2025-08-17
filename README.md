@@ -17,7 +17,7 @@
 ---
 
 ### 📌 Projects
-- [joinuptodate.com](https://joinuptodate.com) → AI-powered investing newsletter  
+- [UpToDate](https://joinuptodate.com) → AI-powered investing newsletter  
 - **Ora AI** → AI Nutrition Tracking
 - **AI Reactor Engineer** → Chatbot for designing and optimizing chemical reactors
 - **Predictive Modeling of Distillation Column** → Trained machine learnings models to predict the vapor pressure from a distillation column
