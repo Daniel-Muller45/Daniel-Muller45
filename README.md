@@ -6,7 +6,7 @@
 
 💻 Currently: Software Engineer @ SAIC
 
-🚀 Interests: AI, finance tech, and developer tools  
+🚀 Interests: AI, finance, fitness
 
 
 ---
