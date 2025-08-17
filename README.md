@@ -1,10 +1,7 @@
 # Hi, I'm Daniel 👋  
-
-🎓 Pursing Master in Computer Science @ University of Illinois Urbana-Champaign
+💻 Currently: Software Engineer @ SAIC, MCS @ University of Illinois Urbana-Champaign
 
 🎓 Studied Chemical Engineering and Computer Science @ Virginia Tech ('25)
-
-💻 Currently: Software Engineer @ SAIC
 
 🚀 Interests: AI, finance, fitness
 
