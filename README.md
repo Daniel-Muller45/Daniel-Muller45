@@ -24,4 +24,4 @@
 ---
 
 ### 📊 GitHub Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmuller&show_icons=true&theme=radical)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-muller45&show_icons=true&theme=radical)
