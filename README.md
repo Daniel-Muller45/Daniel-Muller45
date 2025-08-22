@@ -10,7 +10,7 @@
 
 ### 🔧 Tech Stack
 - **Languages**: Java, Python, JavaScript/TypeScript, Swift  
-- **Frameworks**: Spring Boot, FastAPI, Next.js, React, LangChain, LangGraph
+- **Frameworks**: Spring, FastAPI, Next.js, React, LangChain, LangGraph
 - **Databases**: PostgreSQL, MongoDB, Supabase, Redis
 - **Tools**: Docker, Git
 
