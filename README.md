@@ -12,7 +12,7 @@
 - **Languages**: Java, Python, JavaScript/TypeScript, Swift  
 - **Frameworks**: Spring, FastAPI, Next.js, React, LangChain, LangGraph
 - **Databases**: PostgreSQL, MongoDB, Supabase, Redis
-- **Tools**: Docker, Git
+- **Tools**: Docker, Git, GCP
 
 ---
 
