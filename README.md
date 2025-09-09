@@ -1,4 +1,4 @@
-# Hi, I'm Daniel 👋  
+# Hi, I'm Daniel 
 💻 Currently: Software Engineer @ SAIC, MCS @ University of Illinois Urbana-Champaign
 
 🎓 Studied Chemical Engineering and Computer Science @ Virginia Tech ('25)
